@@ -1,0 +1,4 @@
+Hey guys, I have built this OpenWispr, which is an alternative to the Wispr Flow, which has been built by an American startup, which is also VC funded. The idea I have used here is to use the on-device model that Android provides for speech-to-text recognition, and I have pipelined it to the Groq's API. Whenever you complete your recording and you hit Enter, you get results that are almost similar to what the Wispr Flow provides at a very fractional amount. Also, it's not to compete with them; it's not anything else, but it's just a project to define how you can leverage the on-device Google speech-to-text model to get some results which have been shown as a frontier app from the Wispr Flow. 
+
+
+Hey guys, I have kept the README small as I don't want to add some unwanted README here. This is based on a simple idea which I came across, and I built it. 
